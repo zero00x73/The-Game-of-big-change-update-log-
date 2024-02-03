@@ -1,5 +1,5 @@
+ language [中文](https://github.com/zero00x73/The-Game-of-big-change-update-log-) [EN](https://github.com/zero00x73/The-Game-of-big-change-update-log-/blob/main/README_EN.md)
 ## 更新日志
-**language** [中文](https://github.com/zero00x73/The-Game-of-big-change-update-log-)
 - **0.14更新** 
    - 1.增加药物治疗效果
    - 2.增加以下工具耐久:
