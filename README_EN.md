@@ -1,4 +1,4 @@
- language [中文](https://github.com/zero00x73/The-Game-of-big-change-update-log-)
+ language [中文](https://github.com/zero00x73/The-Game-of-big-change-update-log-) [EN](https://github.com/zero00x73/The-Game-of-big-change-update-log-/blob/main/README_EN.md)
 ## Update Log
 - **0.14 Update**
    -  1.Enhanced efficacy of drug therapies
