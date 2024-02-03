@@ -41,3 +41,38 @@ ________________________________________________________________________________
 -  **0.11更新日志**
    - 1.修复bug
    - 2.开锁器堆叠改为6
+____________________________________________________________________________________________
+-  **0.1更新**
+   - 目前仅有修改物品堆叠上限功能,具体修改上限参数如下:
+     - 1.弹药 Ammo 20-60
+     - 2.绷带 Bandages 4-8
+     - 3.书 Book 2-4
+     - 3.坏掉的玩具 BrokenToy 4-6
+     - 4.罐头 CannedFood 4-6
+     - 5.香烟 Cigarette 20-30
+     - 6.咖啡 Coffee 20-25
+     - 7.电子元件 ElectricParts 4-8
+     - 8.滤嘴 Filter 4-8
+     - 9.损坏的吉他 Guitar_broken 1-4
+     - 10.火药 GunPowder 20-40
+     - 11.损坏的头盔 Helmet_broken 1-3
+     - 12.简易药品 HerbalMeds 2-8
+     - 13.自产烟草 HomeGrownTobacco 4-8
+     - 14.开锁器 LockPick 4-6
+     - 15.药品原料 MedIngredients 4-8
+     - 16.部件 Parts 4-10
+     - 17.损坏的手枪 Pistol_broken 1-3
+     - 18.手枪子弹 PistolShells 20-60
+     - 19.生食 RawFood 4-10
+     - 20.步枪子弹 RifleAmmo 20-60
+     - 21.锯刃 SawBlade 4-6
+     - 22.损坏的散弹枪 Shotgun_broken 1-3
+     - 23.散弹枪子弹 ShotgunAmmo 20-30
+     - 24.雪 Snow 10-20
+     - 25.糖 Sugar 10-30
+     - 26.烟草 Tobacco 4-8 
+     - 27.蔬菜 Vegetables 4-8
+     - 28. 损坏的防弹背心 Vest_broken 1-3
+     - 29.水 Water 10-20
+     - 30.武器部件 WeaponParts 4-8
+     - 31.木材 Wood 2-10
