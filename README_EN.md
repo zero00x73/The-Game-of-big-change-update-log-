@@ -1,0 +1,88 @@
+ language [中文](https://github.com/zero00x73/The-Game-of-big-change-update-log-)
+## Update Log
+- **0.14 Update**
+   -  1.Enhanced efficacy of drug therapies
+   -  2. Increased the durability of the following tools:
+      - 1. Crowbar 15-30
+      - 2. Hatchet 10-30
+      - 3. SawBlade 1-4
+      - 4. Shovel 15-30
+   - 3.Sniper Rifle: Damage increased from 50 to 150
+________________________________________________________________________________________________________________________________________________________________________________________
+- **v0.13 Update**
+Add new formula:
+   - 1.1 piece of wood can make 2 pieces in 0.2 hours.
+   - 2.Water can double its volume in 0.2 time.
+   - 3.Make 4 parts from 2 in 0.2h
+  - 4.Coffee can be made by mixing Fertilizer*1 with Water*2. Brewing time: 0.5 hours.
+  - 5.Component manufacturing: 4 from 2, duration 0.2h
+  - 6.Electronic components 2 made 4 Time is 0.2h
+  - 7.Weapon components 0.2h to make 2 to 4
+____________________________________________________________________________________________
+-  **0.12 Update** 
+   - 1.Nighttime cycles change the time in 5-minute intervals.
+   - 2.NPC visiting hours: 7:30 AM - 8:30 AM
+   - 3.List of items and their respective times:
+     - 1. CookedFood 1h-0.5h
+     - 2. CookedFood2 1h-0.75h
+     - 3.Crowbar 1h-0.5h
+     - 4.Filter 0.5h-0.25h
+     - 5.Garden 1h-0.5h
+     - 6.Garden2 1h-0.75h
+     - 7.Guitar 1h-0.75h
+     - 8. Hatchet  1h-0.5h
+     - 9.Heater 1h-0.5h
+     - 10.Heater2 1h-0.75h
+     - 11.HeatLamp 1h-0.5h
+     - 12.Helmet 1h-0.75h
+     - 13.HerbalMeds 1h-0.5h
+     - 14.MoonshineStill1 1h-0.5h
+     - 15.MoonshineStill2 1h-0.75h
+     - 16.MetalWorkshop1 1h-0.25h
+     - 17.MetalWorkshop2 1h-0.5h
+     - 18.MetalWorkshop3 1h-0.75h
+     - 19.Pistol 1h-0.5h
+     - 20.SawBlade 0.5h-0.25h
+     - 21.Shotgun 1h-0.5h
+     - 22.Shovel 1h-0.5h
+     - 23.Vest 1h-0.75h
+     - 24.WaterCollector 1h-0.5h
+____________________________________________________________________________________________
+-  **0.11 Update**
+   - 1.Fix bugs
+   - 2.Lock cracker stack changed to 6.
+____________________________________________________________________________________________
+-  **0.1 Update**
+   - Currently, only the function to modify the stack limit of items is available. The specific modification limit parameters are as follows:
+    - 1. Ammo 20-60
+     - 2. Bandages 4-8
+     - 3. Book 2-4
+     - 3. BrokenToy 4-6
+     - 4. CannedFood 4-6
+     - 5. Cigarette 20-30
+     - 6. Coffee 20-25
+     - 7. ElectricParts 4-8
+     - 8. Filter 4-8
+     - 9. Guitar_broken 1-4
+     - 10. GunPowder 20-40
+     - 11. Helmet_broken 1-3
+     - 12. HerbalMeds 2-8
+     - 13. HomeGrownTobacco 4-8
+     - 14. LockPick 4-6
+     - 15. MedIngredients 4-8
+     - 16. Parts 4-10
+     - 17. Pistol_broken 1-3
+     - 18. PistolShells 20-60
+     - 19. RawFood 4-10
+     - 20. RifleAmmo 20-60
+     - 21. SawBlade 4-6
+     - 22. Shotgun_broken 1-3
+     - 23. ShotgunAmmo 20-30
+     - 24. Snow 10-20
+     - 25. Sugar 10-30
+     - 26. Tobacco 4-8 
+     - 27. Vegetables 4-8
+     - 28.  Vest_broken 1-3
+     - 29. Water 10-20
+     - 30. WeaponParts 4-8
+     - 31. Wood 2-10
