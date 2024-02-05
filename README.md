@@ -1,5 +1,16 @@
  language [中文](https://github.com/zero00x73/The-Game-of-big-change-update-log-) [EN](https://github.com/zero00x73/The-Game-of-big-change-update-log-/blob/main/README_EN.md)
 ## 更新日志
+- **0.15更新** 
+   - 1.添加物品修改时间:
+    - 1.床 bed 1h-0.5h
+    - 2.扶手椅 Armchair 1h-0.5h
+    - 3.绷带 Bandages 1h-0.5h
+    - 4.弹药 Ammo 0.25h-0.1h
+   - 2.添加新配方:
+    - 1.蔬菜可一个制成两个 时间为0.1h
+    - 2.生食可一个制成两个 时间为0.1h
+    - 3.化肥可一个制成两个 时间为0.1h
+____________________________________________________________________________________________
 - **0.14更新** 
    - 1.增加药物治疗效果
    - 2.增加以下工具耐久:

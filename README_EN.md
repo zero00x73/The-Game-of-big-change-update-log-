@@ -1,5 +1,16 @@
  language [中文](https://github.com/zero00x73/The-Game-of-big-change-update-log-) [EN](https://github.com/zero00x73/The-Game-of-big-change-update-log-/blob/main/README_EN.md)
 ## Update Log
+- **0.15 Update**
+   - 1.Item modification date added:
+    - 1. bed 1h-0.5h
+    - 2. Armchair 1h-0.5h
+    - 3 Bandages 1h-0.5h
+    - 4. Ammo 0.25h-0.1h
+   - 2.Create New Recipe:
+    - 1.Vegetables can be prepared in 0.1 hours.
+    - 2.Fresh food can be cooked in 0.1 hours.
+    - 3.Fertilizer can be produced in single or double batches. Each batch takes 0.1 hours to complete.
+____________________________________________________________________________________________
 - **0.14 Update**
    -  1.Enhanced efficacy of drug therapies
    -  2. Increased the durability of the following tools:
