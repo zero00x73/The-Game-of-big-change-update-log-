@@ -1,4 +1,4 @@
- language [中文](https://github.com/zero00x73/The-Game-of-big-change-update-log-) [EN](https://github.com/zero00x73/The-Game-of-big-change-update-log-/blob/main/README_EN.md)
+ language [中文](https://github.com/zero00x73/The-Game-of-big-change-update-log-) [EN](https://github.com/zero00x73/The-Game-of-big-change-update-log-/blob/main/README_EN.md) [RU](https://github.com/zero00x73/The-Game-of-big-change-update-log-/blob/main/README_RU.md) 
 ## 更新日志
 - **0.15更新** 
    - 1.添加物品修改时间:

@@ -1,7 +1,7 @@
- language [中文](https://github.com/zero00x73/The-Game-of-big-change-update-log-) [EN](https://github.com/zero00x73/The-Game-of-big-change-update-log-/blob/main/README_EN.md)
+  language [中文](https://github.com/zero00x73/The-Game-of-big-change-update-log-) [EN](https://github.com/zero00x73/The-Game-of-big-change-update-log-/blob/main/README_EN.md) [RU](https://github.com/zero00x73/The-Game-of-big-change-update-log-/blob/main/README_RU.md) 
 ## Update Log
 - **0.15 Update**
-   - 1.Item modification date added:
+ - 1.Item modification date added:
     - 1. bed 1h-0.5h
     - 2. Armchair 1h-0.5h
     - 3 Bandages 1h-0.5h
